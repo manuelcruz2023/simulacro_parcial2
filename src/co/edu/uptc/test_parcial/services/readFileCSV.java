@@ -10,6 +10,13 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 
+import javax.lang.model.element.Element;
+import javax.swing.text.Document;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.w3c.dom.Node;
+
 public class readFileCSV {
     String path;
     BufferedReader br;
@@ -128,6 +135,18 @@ public class readFileCSV {
         }
         jsonList.add("]");
         return jsonList;
+    }
+
+    public List<String> cityListToXmlList() throws IOException {
+        List<String> city = extractCity();
+        List<String> xmlList = new ArrayList<>();
+        xmlList.add("<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
+        xmlList.add("<cities>");
+        for (String string : city) {
+            xmlList.add("<city>" + "<nombre>" + string + "</nombre>" +"</city>");
+        }
+        xmlList.add("</cities>");
+        return xmlList;
     }
 
     public void createFile(List<String> list) throws IOException {

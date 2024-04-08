@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+<city><nombre>Medellín</nombre></city>
+<city><nombre>Abejorral</nombre></city>
+<city><nombre>Abriaquí</nombre></city>
+<city><nombre>Alejandría</nombre></city>
+<city><nombre>Amagá</nombre></city>
+<city><nombre>Amalfi</nombre></city>
+<city><nombre>Andes</nombre></city>
+<city><nombre>Angelópolis</nombre></city>
+<city><nombre>Angostura</nombre></city>
+<city><nombre>Anorí</nombre></city>
+<city><nombre>Tununguá</nombre></city>
+<city><nombre>Anza</nombre></city>
+<city><nombre>Apartadó</nombre></city>
+<city><nombre>Arboletes</nombre></city>
+<city><nombre>Argelia</nombre></city>
+<city><nombre>Armenia</nombre></city>
+<city><nombre>Barbosa</nombre></city>
+<city><nombre>Bello</nombre></city>
+<city><nombre>Betania</nombre></city>
+<city><nombre>Betulia</nombre></city>
+<city><nombre>Ciudad Bolívar</nombre></city>
+<city><nombre>Briceño</nombre></city>
+<city><nombre>Buriticá</nombre></city>
+<city><nombre>Cáceres</nombre></city>
+<city><nombre>Caicedo</nombre></city>
+<city><nombre>Caldas</nombre></city>
+<city><nombre>Campamento</nombre></city>
+<city><nombre>Cañasgordas</nombre></city>
+<city><nombre>Caracolí</nombre></city>
+<city><nombre>Caramanta</nombre></city>
+<city><nombre>Carepa</nombre></city>
+<city><nombre>Motavita</nombre></city>
+<city><nombre>Carolina</nombre></city>
+<city><nombre>Caucasia</nombre></city>
+<city><nombre>Chigorodó</nombre></city>
+<city><nombre>Cisneros</nombre></city>
+<city><nombre>Cocorná</nombre></city>
+<city><nombre>Concepción</nombre></city>
+<city><nombre>Concordia</nombre></city>
+<city><nombre>Copacabana</nombre></city>
+<city><nombre>Dabeiba</nombre></city>
+<city><nombre>Don Matías</nombre></city>
+<city><nombre>Ebéjico</nombre></city>
+<city><nombre>El Bagre</nombre></city>
+<city><nombre>Entrerrios</nombre></city>
+<city><nombre>Envigado</nombre></city>
+<city><nombre>Fredonia</nombre></city>
+<city><nombre>San Bernardo del Viento</nombre></city>
+<city><nombre>Giraldo</nombre></city>
+<city><nombre>Girardota</nombre></city>
+<city><nombre>Gómez Plata</nombre></city>
+<city><nombre>Istmina</nombre></city>
+<city><nombre>Guadalupe</nombre></city>
+<city><nombre>Guarne</nombre></city>
+<city><nombre>Guatapé</nombre></city>
+<city><nombre>Heliconia</nombre></city>
+<city><nombre>Hispania</nombre></city>
+<city><nombre>Itagui</nombre></city>
+<city><nombre>Ituango</nombre></city>
+<city><nombre>Belmira</nombre></city>
+<city><nombre>Jericó</nombre></city>
+<city><nombre>La Ceja</nombre></city>
+<city><nombre>La Estrella</nombre></city>
+<city><nombre>La Pintada</nombre></city>
+<city><nombre>La Unión</nombre></city>
+<city><nombre>Liborina</nombre></city>
+<city><nombre>Maceo</nombre></city>
+<city><nombre>Marinilla</nombre></city>
+<city><nombre>Montebello</nombre></city>
+<city><nombre>Murindó</nombre></city>
+<city><nombre>Mutatá</nombre></city>
+<city><nombre>Nariño</nombre></city>
+<city><nombre>Necoclí</nombre></city>
+<city><nombre>Nechí</nombre></city>
+<city><nombre>Olaya</nombre></city>
+<city><nombre>Peñol</nombre></city>
+<city><nombre>Peque</nombre></city>
+<city><nombre>Pueblorrico</nombre></city>
+<city><nombre>Puerto Berrío</nombre></city>
+<city><nombre>Puerto Nare</nombre></city>
+<city><nombre>Puerto Triunfo</nombre></city>
+<city><nombre>Remedios</nombre></city>
+<city><nombre>Retiro</nombre></city>
+<city><nombre>Rionegro</nombre></city>
+<city><nombre>Sabanalarga</nombre></city>
+<city><nombre>Sabaneta</nombre></city>
+<city><nombre>Salgar</nombre></city>
+<city><nombre>Ciénega</nombre></city>
+<city><nombre>Santacruz</nombre></city>
+<city><nombre>San Francisco</nombre></city>
+<city><nombre>San Jerónimo</nombre></city>
+<city><nombre>Puerto Wilches</nombre></city>
+<city><nombre>Puerto Parra</nombre></city>
+<city><nombre>San Luis</nombre></city>
+<city><nombre>San Pedro</nombre></city>
+<city><nombre>San Rafael</nombre></city>
+<city><nombre>San Roque</nombre></city>
+<city><nombre>San Vicente</nombre></city>
+<city><nombre>Santa Bárbara</nombre></city>
+<city><nombre>Santo Domingo</nombre></city>
+<city><nombre>El Santuario</nombre></city>
+<city><nombre>Segovia</nombre></city>
+<city><nombre>Sopetrán</nombre></city>
+<city><nombre>Uribe</nombre></city>
+<city><nombre>Támesis</nombre></city>
+<city><nombre>Tarazá</nombre></city>
+<city><nombre>Tarso</nombre></city>
+<city><nombre>Titiribí</nombre></city>
+<city><nombre>Toledo</nombre></city>
+<city><nombre>Turbo</nombre></city>
+<city><nombre>Uramita</nombre></city>
+<city><nombre>Urrao</nombre></city>
+<city><nombre>Valdivia</nombre></city>
+<city><nombre>Valparaíso</nombre></city>
+<city><nombre>Vegachí</nombre></city>
+<city><nombre>Venecia</nombre></city>
+<city><nombre>Yalí</nombre></city>
+<city><nombre>Yarumal</nombre></city>
+<city><nombre>Yolombó</nombre></city>
+<city><nombre>Yondó</nombre></city>
+<city><nombre>Zaragoza</nombre></city>
+<city><nombre>Barranquilla</nombre></city>
+<city><nombre>Baranoa</nombre></city>
+<city><nombre>Candelaria</nombre></city>
+<city><nombre>Galapa</nombre></city>
+<city><nombre>Luruaco</nombre></city>
+<city><nombre>Malambo</nombre></city>
+<city><nombre>Manatí</nombre></city>
+<city><nombre>Piojó</nombre></city>
+<city><nombre>Polonuevo</nombre></city>
+<city><nombre>Sabanagrande</nombre></city>
+<city><nombre>Sabanalarga</nombre></city>
+<city><nombre>Santa Lucía</nombre></city>
+<city><nombre>Santo Tomás</nombre></city>
+<city><nombre>Soledad</nombre></city>
+<city><nombre>Suan</nombre></city>
+<city><nombre>Tubará</nombre></city>
+<city><nombre>Usiacurí</nombre></city>
+<city><nombre>Achí</nombre></city>
+<city><nombre>Arenal</nombre></city>
+<city><nombre>Arjona</nombre></city>
+<city><nombre>Arroyohondo</nombre></city>
+<city><nombre>Calamar</nombre></city>
+<city><nombre>Cantagallo</nombre></city>
+<city><nombre>Cicuco</nombre></city>
+<city><nombre>Córdoba</nombre></city>
+<city><nombre>Clemencia</nombre></city>
+<city><nombre>El Guamo</nombre></city>
+<city><nombre>Magangué</nombre></city>
+<city><nombre>Mahates</nombre></city>
+<city><nombre>Margarita</nombre></city>
+<city><nombre>Montecristo</nombre></city>
+<city><nombre>Mompós</nombre></city>
+<city><nombre>Morales</nombre></city>
+<city><nombre>Norosí</nombre></city>
+<city><nombre>Pinillos</nombre></city>
+<city><nombre>Regidor</nombre></city>
+<city><nombre>Río Viejo</nombre></city>
+<city><nombre>San Estanislao</nombre></city>
+<city><nombre>San Fernando</nombre></city>
+<city><nombre>San Juan Nepomuceno</nombre></city>
+<city><nombre>Santa Catalina</nombre></city>
+<city><nombre>Santa Rosa</nombre></city>
+<city><nombre>Simití</nombre></city>
+<city><nombre>Soplaviento</nombre></city>
+<city><nombre>Talaigua Nuevo</nombre></city>
+<city><nombre>Tiquisio</nombre></city>
+<city><nombre>Turbaco</nombre></city>
+<city><nombre>Turbaná</nombre></city>
+<city><nombre>Villanueva</nombre></city>
+<city><nombre>Tunja</nombre></city>
+<city><nombre>Almeida</nombre></city>
+<city><nombre>Aquitania</nombre></city>
+<city><nombre>Arcabuco</nombre></city>
+<city><nombre>Berbeo</nombre></city>
+<city><nombre>Betéitiva</nombre></city>
+<city><nombre>Boavita</nombre></city>
+<city><nombre>Boyacá</nombre></city>
+<city><nombre>Briceño</nombre></city>
+<city><nombre>Buena Vista</nombre></city>
+<city><nombre>Busbanzá</nombre></city>
+<city><nombre>Caldas</nombre></city>
+<city><nombre>Campohermoso</nombre></city>
+<city><nombre>Cerinza</nombre></city>
+<city><nombre>Chinavita</nombre></city>
+<city><nombre>Chiquinquirá</nombre></city>
+<city><nombre>Chiscas</nombre></city>
+<city><nombre>Chita</nombre></city>
+<city><nombre>Chitaraque</nombre></city>
+<city><nombre>Chivatá</nombre></city>
+<city><nombre>Cómbita</nombre></city>
+<city><nombre>Coper</nombre></city>
+<city><nombre>Corrales</nombre></city>
+<city><nombre>Covarachía</nombre></city>
+<city><nombre>Cubará</nombre></city>
+<city><nombre>Cucaita</nombre></city>
+<city><nombre>Cuítiva</nombre></city>
+<city><nombre>Chíquiza</nombre></city>
+<city><nombre>Chivor</nombre></city>
+<city><nombre>Duitama</nombre></city>
+<city><nombre>El Cocuy</nombre></city>
+<city><nombre>El Espino</nombre></city>
+<city><nombre>Firavitoba</nombre></city>
+<city><nombre>Floresta</nombre></city>
+<city><nombre>Gachantivá</nombre></city>
+<city><nombre>Gameza</nombre></city>
+<city><nombre>Garagoa</nombre></city>
+<city><nombre>Guacamayas</nombre></city>
+<city><nombre>Guateque</nombre></city>
+<city><nombre>Guayatá</nombre></city>
+<city><nombre>Güicán</nombre></city>
+<city><nombre>Iza</nombre></city>
+<city><nombre>Jenesano</nombre></city>
+<city><nombre>Jericó</nombre></city>
+<city><nombre>Labranzagrande</nombre></city>
+<city><nombre>La Capilla</nombre></city>
+<city><nombre>La Victoria</nombre></city>
+<city><nombre>Macanal</nombre></city>
+<city><nombre>Maripí</nombre></city>
+<city><nombre>Miraflores</nombre></city>
+<city><nombre>Mongua</nombre></city>
+<city><nombre>Monguí</nombre></city>
+<city><nombre>Moniquirá</nombre></city>
+<city><nombre>Muzo</nombre></city>
+<city><nombre>Nobsa</nombre></city>
+<city><nombre>Nuevo Colón</nombre></city>
+<city><nombre>Oicatá</nombre></city>
+<city><nombre>Otanche</nombre></city>
+<city><nombre>Pachavita</nombre></city>
+<city><nombre>Páez</nombre></city>
+<city><nombre>Paipa</nombre></city>
+<city><nombre>Pajarito</nombre></city>
+<city><nombre>Panqueba</nombre></city>
+<city><nombre>Pauna</nombre></city>
+<city><nombre>Paya</nombre></city>
+<city><nombre>Pesca</nombre></city>
+<city><nombre>Pisba</nombre></city>
+<city><nombre>Puerto Boyacá</nombre></city>
+<city><nombre>Quípama</nombre></city>
+<city><nombre>Ramiriquí</nombre></city>
+<city><nombre>Ráquira</nombre></city>
+<city><nombre>Rondón</nombre></city>
+<city><nombre>Saboyá</nombre></city>
+<city><nombre>Sáchica</nombre></city>
+<city><nombre>Samacá</nombre></city>
+<city><nombre>San Eduardo</nombre></city>
+<city><nombre>San Mateo</nombre></city>
+<city><nombre>Santana</nombre></city>
+<city><nombre>Santa María</nombre></city>
+<city><nombre>Santa Sofía</nombre></city>
+<city><nombre>Sativanorte</nombre></city>
+<city><nombre>Sativasur</nombre></city>
+<city><nombre>Siachoque</nombre></city>
+<city><nombre>Soatá</nombre></city>
+<city><nombre>Socotá</nombre></city>
+<city><nombre>Socha</nombre></city>
+<city><nombre>Sogamoso</nombre></city>
+<city><nombre>Somondoco</nombre></city>
+<city><nombre>Sora</nombre></city>
+<city><nombre>Sotaquirá</nombre></city>
+<city><nombre>Soracá</nombre></city>
+<city><nombre>Susacón</nombre></city>
+<city><nombre>Sutamarchán</nombre></city>
+<city><nombre>Sutatenza</nombre></city>
+<city><nombre>Tasco</nombre></city>
+<city><nombre>Tenza</nombre></city>
+<city><nombre>Tibaná</nombre></city>
+<city><nombre>Tinjacá</nombre></city>
+<city><nombre>Tipacoque</nombre></city>
+<city><nombre>Toca</nombre></city>
+<city><nombre>Tópaga</nombre></city>
+<city><nombre>Tota</nombre></city>
+<city><nombre>Turmequé</nombre></city>
+<city><nombre>Tutazá</nombre></city>
+<city><nombre>Umbita</nombre></city>
+<city><nombre>Ventaquemada</nombre></city>
+<city><nombre>Viracachá</nombre></city>
+<city><nombre>Zetaquira</nombre></city>
+<city><nombre>Manizales</nombre></city>
+<city><nombre>Aguadas</nombre></city>
+<city><nombre>Anserma</nombre></city>
+<city><nombre>Aranzazu</nombre></city>
+<city><nombre>Belalcázar</nombre></city>
+<city><nombre>Chinchiná</nombre></city>
+<city><nombre>Filadelfia</nombre></city>
+<city><nombre>La Dorada</nombre></city>
+<city><nombre>La Merced</nombre></city>
+<city><nombre>Manzanares</nombre></city>
+<city><nombre>Marmato</nombre></city>
+<city><nombre>Marulanda</nombre></city>
+<city><nombre>Neira</nombre></city>
+<city><nombre>Norcasia</nombre></city>
+<city><nombre>Pácora</nombre></city>
+<city><nombre>Palestina</nombre></city>
+<city><nombre>Pensilvania</nombre></city>
+<city><nombre>Riosucio</nombre></city>
+<city><nombre>Risaralda</nombre></city>
+<city><nombre>Salamina</nombre></city>
+<city><nombre>Samaná</nombre></city>
+<city><nombre>San José</nombre></city>
+<city><nombre>Supía</nombre></city>
+<city><nombre>Victoria</nombre></city>
+<city><nombre>Villamaría</nombre></city>
+<city><nombre>Viterbo</nombre></city>
+<city><nombre>Florencia</nombre></city>
+<city><nombre>Albania</nombre></city>
+<city><nombre>Curillo</nombre></city>
+<city><nombre>El Doncello</nombre></city>
+<city><nombre>El Paujil</nombre></city>
+<city><nombre>Morelia</nombre></city>
+<city><nombre>Puerto Rico</nombre></city>
+<city><nombre>Solano</nombre></city>
+<city><nombre>Solita</nombre></city>
+<city><nombre>Valparaíso</nombre></city>
+<city><nombre>Popayán</nombre></city>
+<city><nombre>Almaguer</nombre></city>
+<city><nombre>Argelia</nombre></city>
+<city><nombre>Balboa</nombre></city>
+<city><nombre>Bolívar</nombre></city>
+<city><nombre>Buenos Aires</nombre></city>
+<city><nombre>Cajibío</nombre></city>
+<city><nombre>Caldono</nombre></city>
+<city><nombre>Caloto</nombre></city>
+<city><nombre>Corinto</nombre></city>
+<city><nombre>El Tambo</nombre></city>
+<city><nombre>Florencia</nombre></city>
+<city><nombre>Guachené</nombre></city>
+<city><nombre>Guapi</nombre></city>
+<city><nombre>Inzá</nombre></city>
+<city><nombre>Jambaló</nombre></city>
+<city><nombre>La Sierra</nombre></city>
+<city><nombre>La Vega</nombre></city>
+<city><nombre>López</nombre></city>
+<city><nombre>Mercaderes</nombre></city>
+<city><nombre>Miranda</nombre></city>
+<city><nombre>Morales</nombre></city>
+<city><nombre>Padilla</nombre></city>
+<city><nombre>Patía</nombre></city>
+<city><nombre>Piamonte</nombre></city>
+<city><nombre>Piendamó</nombre></city>
+<city><nombre>Puerto Tejada</nombre></city>
+<city><nombre>Puracé</nombre></city>
+<city><nombre>Rosas</nombre></city>
+<city><nombre>Santa Rosa</nombre></city>
+<city><nombre>Silvia</nombre></city>
+<city><nombre>Sotara</nombre></city>
+<city><nombre>Suárez</nombre></city>
+<city><nombre>Sucre</nombre></city>
+<city><nombre>Timbío</nombre></city>
+<city><nombre>Timbiquí</nombre></city>
+<city><nombre>Toribio</nombre></city>
+<city><nombre>Totoró</nombre></city>
+<city><nombre>Villa Rica</nombre></city>
+<city><nombre>Valledupar</nombre></city>
+<city><nombre>Aguachica</nombre></city>
+<city><nombre>Agustín Codazzi</nombre></city>
+<city><nombre>Astrea</nombre></city>
+<city><nombre>Becerril</nombre></city>
+<city><nombre>Bosconia</nombre></city>
+<city><nombre>Chimichagua</nombre></city>
+<city><nombre>Chiriguaná</nombre></city>
+<city><nombre>Curumaní</nombre></city>
+<city><nombre>El Copey</nombre></city>
+<city><nombre>El Paso</nombre></city>
+<city><nombre>Gamarra</nombre></city>
+<city><nombre>González</nombre></city>
+<city><nombre>La Gloria</nombre></city>
+<city><nombre>Manaure</nombre></city>
+<city><nombre>Pailitas</nombre></city>
+<city><nombre>Pelaya</nombre></city>
+<city><nombre>Pueblo Bello</nombre></city>
+<city><nombre>La Paz</nombre></city>
+<city><nombre>San Alberto</nombre></city>
+<city><nombre>San Diego</nombre></city>
+<city><nombre>San Martín</nombre></city>
+<city><nombre>Tamalameque</nombre></city>
+<city><nombre>Montería</nombre></city>
+<city><nombre>Ayapel</nombre></city>
+<city><nombre>Buenavista</nombre></city>
+<city><nombre>Canalete</nombre></city>
+<city><nombre>Cereté</nombre></city>
+<city><nombre>Chimá</nombre></city>
+<city><nombre>Chinú</nombre></city>
+<city><nombre>Cotorra</nombre></city>
+<city><nombre>Lorica</nombre></city>
+<city><nombre>Los Córdobas</nombre></city>
+<city><nombre>Momil</nombre></city>
+<city><nombre>Moñitos</nombre></city>
+<city><nombre>Planeta Rica</nombre></city>
+<city><nombre>Pueblo Nuevo</nombre></city>
+<city><nombre>Puerto Escondido</nombre></city>
+<city><nombre>Purísima</nombre></city>
+<city><nombre>Sahagún</nombre></city>
+<city><nombre>San Andrés Sotavento</nombre></city>
+<city><nombre>San Antero</nombre></city>
+<city><nombre>San Pelayo</nombre></city>
+<city><nombre>Tierralta</nombre></city>
+<city><nombre>Tuchín</nombre></city>
+<city><nombre>Valencia</nombre></city>
+<city><nombre>Anapoima</nombre></city>
+<city><nombre>Arbeláez</nombre></city>
+<city><nombre>Beltrán</nombre></city>
+<city><nombre>Bituima</nombre></city>
+<city><nombre>Bojacá</nombre></city>
+<city><nombre>Cabrera</nombre></city>
+<city><nombre>Cachipay</nombre></city>
+<city><nombre>Cajicá</nombre></city>
+<city><nombre>Caparrapí</nombre></city>
+<city><nombre>Caqueza</nombre></city>
+<city><nombre>Chaguaní</nombre></city>
+<city><nombre>Chipaque</nombre></city>
+<city><nombre>Choachí</nombre></city>
+<city><nombre>Chocontá</nombre></city>
+<city><nombre>Cogua</nombre></city>
+<city><nombre>Cota</nombre></city>
+<city><nombre>Cucunubá</nombre></city>
+<city><nombre>El Colegio</nombre></city>
+<city><nombre>El Rosal</nombre></city>
+<city><nombre>Fomeque</nombre></city>
+<city><nombre>Fosca</nombre></city>
+<city><nombre>Funza</nombre></city>
+<city><nombre>Fúquene</nombre></city>
+<city><nombre>Gachala</nombre></city>
+<city><nombre>Gachancipá</nombre></city>
+<city><nombre>Gachetá</nombre></city>
+<city><nombre>Girardot</nombre></city>
+<city><nombre>Granada</nombre></city>
+<city><nombre>Guachetá</nombre></city>
+<city><nombre>Guaduas</nombre></city>
+<city><nombre>Guasca</nombre></city>
+<city><nombre>Guataquí</nombre></city>
+<city><nombre>Guatavita</nombre></city>
+<city><nombre>Guayabetal</nombre></city>
+<city><nombre>Gutiérrez</nombre></city>
+<city><nombre>Jerusalén</nombre></city>
+<city><nombre>Junín</nombre></city>
+<city><nombre>La Calera</nombre></city>
+<city><nombre>La Mesa</nombre></city>
+<city><nombre>La Palma</nombre></city>
+<city><nombre>La Peña</nombre></city>
+<city><nombre>La Vega</nombre></city>
+<city><nombre>Lenguazaque</nombre></city>
+<city><nombre>Macheta</nombre></city>
+<city><nombre>Madrid</nombre></city>
+<city><nombre>Manta</nombre></city>
+<city><nombre>Medina</nombre></city>
+<city><nombre>Mosquera</nombre></city>
+<city><nombre>Nariño</nombre></city>
+<city><nombre>Nemocón</nombre></city>
+<city><nombre>Nilo</nombre></city>
+<city><nombre>Nimaima</nombre></city>
+<city><nombre>Nocaima</nombre></city>
+<city><nombre>Venecia</nombre></city>
+<city><nombre>Pacho</nombre></city>
+<city><nombre>Paime</nombre></city>
+<city><nombre>Pandi</nombre></city>
+<city><nombre>Paratebueno</nombre></city>
+<city><nombre>Pasca</nombre></city>
+<city><nombre>Puerto Salgar</nombre></city>
+<city><nombre>Pulí</nombre></city>
+<city><nombre>Quebradanegra</nombre></city>
+<city><nombre>Quetame</nombre></city>
+<city><nombre>Quipile</nombre></city>
+<city><nombre>Apulo</nombre></city>
+<city><nombre>Ricaurte</nombre></city>
+<city><nombre>San Bernardo</nombre></city>
+<city><nombre>San Cayetano</nombre></city>
+<city><nombre>San Francisco</nombre></city>
+<city><nombre>Sesquilé</nombre></city>
+<city><nombre>Sibaté</nombre></city>
+<city><nombre>Silvania</nombre></city>
+<city><nombre>Simijaca</nombre></city>
+<city><nombre>Soacha</nombre></city>
+<city><nombre>Subachoque</nombre></city>
+<city><nombre>Suesca</nombre></city>
+<city><nombre>Supatá</nombre></city>
+<city><nombre>Susa</nombre></city>
+<city><nombre>Sutatausa</nombre></city>
+<city><nombre>Tabio</nombre></city>
+<city><nombre>Tausa</nombre></city>
+<city><nombre>Tena</nombre></city>
+<city><nombre>Tenjo</nombre></city>
+<city><nombre>Tibacuy</nombre></city>
+<city><nombre>Tibirita</nombre></city>
+<city><nombre>Tocaima</nombre></city>
+<city><nombre>Tocancipá</nombre></city>
+<city><nombre>Topaipí</nombre></city>
+<city><nombre>Ubalá</nombre></city>
+<city><nombre>Ubaque</nombre></city>
+<city><nombre>Une</nombre></city>
+<city><nombre>Útica</nombre></city>
+<city><nombre>Vianí</nombre></city>
+<city><nombre>Villagómez</nombre></city>
+<city><nombre>Villapinzón</nombre></city>
+<city><nombre>Villeta</nombre></city>
+<city><nombre>Viotá</nombre></city>
+<city><nombre>Zipacón</nombre></city>
+<city><nombre>Quibdó</nombre></city>
+<city><nombre>Acandí</nombre></city>
+<city><nombre>Alto Baudo</nombre></city>
+<city><nombre>Atrato</nombre></city>
+<city><nombre>Bagadó</nombre></city>
+<city><nombre>Bahía Solano</nombre></city>
+<city><nombre>Bajo Baudó</nombre></city>
+<city><nombre>Bojaya</nombre></city>
+<city><nombre>Cértegui</nombre></city>
+<city><nombre>Condoto</nombre></city>
+<city><nombre>Juradó</nombre></city>
+<city><nombre>Lloró</nombre></city>
+<city><nombre>Medio Atrato</nombre></city>
+<city><nombre>Medio Baudó</nombre></city>
+<city><nombre>Medio San Juan</nombre></city>
+<city><nombre>Nóvita</nombre></city>
+<city><nombre>Nuquí</nombre></city>
+<city><nombre>Río Iro</nombre></city>
+<city><nombre>Río Quito</nombre></city>
+<city><nombre>Riosucio</nombre></city>
+<city><nombre>Sipí</nombre></city>
+<city><nombre>Unguía</nombre></city>
+<city><nombre>Neiva</nombre></city>
+<city><nombre>Acevedo</nombre></city>
+<city><nombre>Agrado</nombre></city>
+<city><nombre>Aipe</nombre></city>
+<city><nombre>Algeciras</nombre></city>
+<city><nombre>Altamira</nombre></city>
+<city><nombre>Baraya</nombre></city>
+<city><nombre>Campoalegre</nombre></city>
+<city><nombre>Colombia</nombre></city>
+<city><nombre>Elías</nombre></city>
+<city><nombre>Garzón</nombre></city>
+<city><nombre>Gigante</nombre></city>
+<city><nombre>Guadalupe</nombre></city>
+<city><nombre>Hobo</nombre></city>
+<city><nombre>Iquira</nombre></city>
+<city><nombre>Isnos</nombre></city>
+<city><nombre>La Argentina</nombre></city>
+<city><nombre>La Plata</nombre></city>
+<city><nombre>Nátaga</nombre></city>
+<city><nombre>Oporapa</nombre></city>
+<city><nombre>Paicol</nombre></city>
+<city><nombre>Palermo</nombre></city>
+<city><nombre>Palestina</nombre></city>
+<city><nombre>Pital</nombre></city>
+<city><nombre>Pitalito</nombre></city>
+<city><nombre>Rivera</nombre></city>
+<city><nombre>Saladoblanco</nombre></city>
+<city><nombre>Santa María</nombre></city>
+<city><nombre>Suaza</nombre></city>
+<city><nombre>Tarqui</nombre></city>
+<city><nombre>Tesalia</nombre></city>
+<city><nombre>Tello</nombre></city>
+<city><nombre>Teruel</nombre></city>
+<city><nombre>Timaná</nombre></city>
+<city><nombre>Villavieja</nombre></city>
+<city><nombre>Yaguará</nombre></city>
+<city><nombre>Riohacha</nombre></city>
+<city><nombre>Albania</nombre></city>
+<city><nombre>Barrancas</nombre></city>
+<city><nombre>Dibula</nombre></city>
+<city><nombre>Distracción</nombre></city>
+<city><nombre>El Molino</nombre></city>
+<city><nombre>Fonseca</nombre></city>
+<city><nombre>Hatonuevo</nombre></city>
+<city><nombre>Maicao</nombre></city>
+<city><nombre>Manaure</nombre></city>
+<city><nombre>Uribia</nombre></city>
+<city><nombre>Urumita</nombre></city>
+<city><nombre>Villanueva</nombre></city>
+<city><nombre>Santa Marta</nombre></city>
+<city><nombre>Algarrobo</nombre></city>
+<city><nombre>Aracataca</nombre></city>
+<city><nombre>Ariguaní</nombre></city>
+<city><nombre>Cerro San Antonio</nombre></city>
+<city><nombre>Chivolo</nombre></city>
+<city><nombre>Concordia</nombre></city>
+<city><nombre>El Banco</nombre></city>
+<city><nombre>El Piñon</nombre></city>
+<city><nombre>El Retén</nombre></city>
+<city><nombre>Fundación</nombre></city>
+<city><nombre>Guamal</nombre></city>
+<city><nombre>Nueva Granada</nombre></city>
+<city><nombre>Pedraza</nombre></city>
+<city><nombre>Pivijay</nombre></city>
+<city><nombre>Plato</nombre></city>
+<city><nombre>Remolino</nombre></city>
+<city><nombre>Salamina</nombre></city>
+<city><nombre>San Zenón</nombre></city>
+<city><nombre>Santa Ana</nombre></city>
+<city><nombre>Sitionuevo</nombre></city>
+<city><nombre>Tenerife</nombre></city>
+<city><nombre>Zapayán</nombre></city>
+<city><nombre>Zona Bananera</nombre></city>
+<city><nombre>Villavicencio</nombre></city>
+<city><nombre>Acacias</nombre></city>
+<city><nombre>Cabuyaro</nombre></city>
+<city><nombre>Cubarral</nombre></city>
+<city><nombre>Cumaral</nombre></city>
+<city><nombre>El Calvario</nombre></city>
+<city><nombre>El Castillo</nombre></city>
+<city><nombre>El Dorado</nombre></city>
+<city><nombre>Granada</nombre></city>
+<city><nombre>Guamal</nombre></city>
+<city><nombre>Mapiripán</nombre></city>
+<city><nombre>Mesetas</nombre></city>
+<city><nombre>La Macarena</nombre></city>
+<city><nombre>Lejanías</nombre></city>
+<city><nombre>Puerto Concordia</nombre></city>
+<city><nombre>Puerto Gaitán</nombre></city>
+<city><nombre>Puerto López</nombre></city>
+<city><nombre>Puerto Lleras</nombre></city>
+<city><nombre>Puerto Rico</nombre></city>
+<city><nombre>Restrepo</nombre></city>
+<city><nombre>San Juanito</nombre></city>
+<city><nombre>San Martín</nombre></city>
+<city><nombre>Vista Hermosa</nombre></city>
+<city><nombre>Pasto</nombre></city>
+<city><nombre>Albán</nombre></city>
+<city><nombre>Aldana</nombre></city>
+<city><nombre>Ancuyá</nombre></city>
+<city><nombre>Barbacoas</nombre></city>
+<city><nombre>Colón</nombre></city>
+<city><nombre>Consaca</nombre></city>
+<city><nombre>Contadero</nombre></city>
+<city><nombre>Córdoba</nombre></city>
+<city><nombre>Cuaspud</nombre></city>
+<city><nombre>Cumbal</nombre></city>
+<city><nombre>Cumbitara</nombre></city>
+<city><nombre>El Charco</nombre></city>
+<city><nombre>El Peñol</nombre></city>
+<city><nombre>El Rosario</nombre></city>
+<city><nombre>El Tambo</nombre></city>
+<city><nombre>Funes</nombre></city>
+<city><nombre>Guachucal</nombre></city>
+<city><nombre>Guaitarilla</nombre></city>
+<city><nombre>Gualmatán</nombre></city>
+<city><nombre>Iles</nombre></city>
+<city><nombre>Imués</nombre></city>
+<city><nombre>Ipiales</nombre></city>
+<city><nombre>La Cruz</nombre></city>
+<city><nombre>La Florida</nombre></city>
+<city><nombre>La Llanada</nombre></city>
+<city><nombre>La Tola</nombre></city>
+<city><nombre>La Unión</nombre></city>
+<city><nombre>Leiva</nombre></city>
+<city><nombre>Linares</nombre></city>
+<city><nombre>Los Andes</nombre></city>
+<city><nombre>Magüí</nombre></city>
+<city><nombre>Mallama</nombre></city>
+<city><nombre>Mosquera</nombre></city>
+<city><nombre>Nariño</nombre></city>
+<city><nombre>Olaya Herrera</nombre></city>
+<city><nombre>Ospina</nombre></city>
+<city><nombre>Francisco Pizarro</nombre></city>
+<city><nombre>Policarpa</nombre></city>
+<city><nombre>Potosí</nombre></city>
+<city><nombre>Providencia</nombre></city>
+<city><nombre>Puerres</nombre></city>
+<city><nombre>Pupiales</nombre></city>
+<city><nombre>Ricaurte</nombre></city>
+<city><nombre>Roberto Payán</nombre></city>
+<city><nombre>Samaniego</nombre></city>
+<city><nombre>Sandoná</nombre></city>
+<city><nombre>San Bernardo</nombre></city>
+<city><nombre>San Lorenzo</nombre></city>
+<city><nombre>San Pablo</nombre></city>
+<city><nombre>Santa Bárbara</nombre></city>
+<city><nombre>Sapuyes</nombre></city>
+<city><nombre>Taminango</nombre></city>
+<city><nombre>Tangua</nombre></city>
+<city><nombre>Túquerres</nombre></city>
+<city><nombre>Yacuanquer</nombre></city>
+<city><nombre>Armenia</nombre></city>
+<city><nombre>Buenavista</nombre></city>
+<city><nombre>Circasia</nombre></city>
+<city><nombre>Córdoba</nombre></city>
+<city><nombre>Filandia</nombre></city>
+<city><nombre>La Tebaida</nombre></city>
+<city><nombre>Montenegro</nombre></city>
+<city><nombre>Pijao</nombre></city>
+<city><nombre>Quimbaya</nombre></city>
+<city><nombre>Salento</nombre></city>
+<city><nombre>Pereira</nombre></city>
+<city><nombre>Apía</nombre></city>
+<city><nombre>Balboa</nombre></city>
+<city><nombre>Dosquebradas</nombre></city>
+<city><nombre>Guática</nombre></city>
+<city><nombre>La Celia</nombre></city>
+<city><nombre>La Virginia</nombre></city>
+<city><nombre>Marsella</nombre></city>
+<city><nombre>Mistrató</nombre></city>
+<city><nombre>Pueblo Rico</nombre></city>
+<city><nombre>Quinchía</nombre></city>
+<city><nombre>Santuario</nombre></city>
+<city><nombre>Bucaramanga</nombre></city>
+<city><nombre>Aguada</nombre></city>
+<city><nombre>Albania</nombre></city>
+<city><nombre>Aratoca</nombre></city>
+<city><nombre>Barbosa</nombre></city>
+<city><nombre>Barichara</nombre></city>
+<city><nombre>Barrancabermeja</nombre></city>
+<city><nombre>Betulia</nombre></city>
+<city><nombre>Bolívar</nombre></city>
+<city><nombre>Cabrera</nombre></city>
+<city><nombre>California</nombre></city>
+<city><nombre>Carcasí</nombre></city>
+<city><nombre>Cepitá</nombre></city>
+<city><nombre>Cerrito</nombre></city>
+<city><nombre>Charalá</nombre></city>
+<city><nombre>Charta</nombre></city>
+<city><nombre>Chipatá</nombre></city>
+<city><nombre>Cimitarra</nombre></city>
+<city><nombre>Concepción</nombre></city>
+<city><nombre>Confines</nombre></city>
+<city><nombre>Contratación</nombre></city>
+<city><nombre>Coromoro</nombre></city>
+<city><nombre>Curití</nombre></city>
+<city><nombre>El Guacamayo</nombre></city>
+<city><nombre>El Playón</nombre></city>
+<city><nombre>Encino</nombre></city>
+<city><nombre>Enciso</nombre></city>
+<city><nombre>Florián</nombre></city>
+<city><nombre>Floridablanca</nombre></city>
+<city><nombre>Galán</nombre></city>
+<city><nombre>Gambita</nombre></city>
+<city><nombre>Girón</nombre></city>
+<city><nombre>Guaca</nombre></city>
+<city><nombre>Guadalupe</nombre></city>
+<city><nombre>Guapotá</nombre></city>
+<city><nombre>Guavatá</nombre></city>
+<city><nombre>Güepsa</nombre></city>
+<city><nombre>Jesús María</nombre></city>
+<city><nombre>Jordán</nombre></city>
+<city><nombre>La Belleza</nombre></city>
+<city><nombre>Landázuri</nombre></city>
+<city><nombre>La Paz</nombre></city>
+<city><nombre>Lebríja</nombre></city>
+<city><nombre>Los Santos</nombre></city>
+<city><nombre>Macaravita</nombre></city>
+<city><nombre>Málaga</nombre></city>
+<city><nombre>Matanza</nombre></city>
+<city><nombre>Mogotes</nombre></city>
+<city><nombre>Molagavita</nombre></city>
+<city><nombre>Ocamonte</nombre></city>
+<city><nombre>Oiba</nombre></city>
+<city><nombre>Onzaga</nombre></city>
+<city><nombre>Palmar</nombre></city>
+<city><nombre>Páramo</nombre></city>
+<city><nombre>Piedecuesta</nombre></city>
+<city><nombre>Pinchote</nombre></city>
+<city><nombre>Puente Nacional</nombre></city>
+<city><nombre>Rionegro</nombre></city>
+<city><nombre>San Andrés</nombre></city>
+<city><nombre>San Gil</nombre></city>
+<city><nombre>San Joaquín</nombre></city>
+<city><nombre>San Miguel</nombre></city>
+<city><nombre>Santa Bárbara</nombre></city>
+<city><nombre>Simacota</nombre></city>
+<city><nombre>Socorro</nombre></city>
+<city><nombre>Suaita</nombre></city>
+<city><nombre>Sucre</nombre></city>
+<city><nombre>Suratá</nombre></city>
+<city><nombre>Tona</nombre></city>
+<city><nombre>Vélez</nombre></city>
+<city><nombre>Vetas</nombre></city>
+<city><nombre>Villanueva</nombre></city>
+<city><nombre>Zapatoca</nombre></city>
+<city><nombre>Sincelejo</nombre></city>
+<city><nombre>Buenavista</nombre></city>
+<city><nombre>Caimito</nombre></city>
+<city><nombre>Coloso</nombre></city>
+<city><nombre>Coveñas</nombre></city>
+<city><nombre>Chalán</nombre></city>
+<city><nombre>El Roble</nombre></city>
+<city><nombre>Galeras</nombre></city>
+<city><nombre>Guaranda</nombre></city>
+<city><nombre>La Unión</nombre></city>
+<city><nombre>Los Palmitos</nombre></city>
+<city><nombre>Majagual</nombre></city>
+<city><nombre>Morroa</nombre></city>
+<city><nombre>Ovejas</nombre></city>
+<city><nombre>Palmito</nombre></city>
+<city><nombre>San Benito Abad</nombre></city>
+<city><nombre>San Marcos</nombre></city>
+<city><nombre>San Onofre</nombre></city>
+<city><nombre>San Pedro</nombre></city>
+<city><nombre>Sucre</nombre></city>
+<city><nombre>Tolú Viejo</nombre></city>
+<city><nombre>Alpujarra</nombre></city>
+<city><nombre>Alvarado</nombre></city>
+<city><nombre>Ambalema</nombre></city>
+<city><nombre>Armero</nombre></city>
+<city><nombre>Ataco</nombre></city>
+<city><nombre>Cajamarca</nombre></city>
+<city><nombre>Chaparral</nombre></city>
+<city><nombre>Coello</nombre></city>
+<city><nombre>Coyaima</nombre></city>
+<city><nombre>Cunday</nombre></city>
+<city><nombre>Dolores</nombre></city>
+<city><nombre>Espinal</nombre></city>
+<city><nombre>Falan</nombre></city>
+<city><nombre>Flandes</nombre></city>
+<city><nombre>Fresno</nombre></city>
+<city><nombre>Guamo</nombre></city>
+<city><nombre>Herveo</nombre></city>
+<city><nombre>Honda</nombre></city>
+<city><nombre>Icononzo</nombre></city>
+<city><nombre>Mariquita</nombre></city>
+<city><nombre>Melgar</nombre></city>
+<city><nombre>Murillo</nombre></city>
+<city><nombre>Natagaima</nombre></city>
+<city><nombre>Ortega</nombre></city>
+<city><nombre>Palocabildo</nombre></city>
+<city><nombre>Piedras</nombre></city>
+<city><nombre>Planadas</nombre></city>
+<city><nombre>Prado</nombre></city>
+<city><nombre>Purificación</nombre></city>
+<city><nombre>Rio Blanco</nombre></city>
+<city><nombre>Roncesvalles</nombre></city>
+<city><nombre>Rovira</nombre></city>
+<city><nombre>Saldaña</nombre></city>
+<city><nombre>Santa Isabel</nombre></city>
+<city><nombre>Venadillo</nombre></city>
+<city><nombre>Villahermosa</nombre></city>
+<city><nombre>Villarrica</nombre></city>
+<city><nombre>Arauquita</nombre></city>
+<city><nombre>Cravo Norte</nombre></city>
+<city><nombre>Fortul</nombre></city>
+<city><nombre>Puerto Rondón</nombre></city>
+<city><nombre>Saravena</nombre></city>
+<city><nombre>Tame</nombre></city>
+<city><nombre>Arauca</nombre></city>
+<city><nombre>Yopal</nombre></city>
+<city><nombre>Aguazul</nombre></city>
+<city><nombre>Chámeza</nombre></city>
+<city><nombre>Hato Corozal</nombre></city>
+<city><nombre>La Salina</nombre></city>
+<city><nombre>Monterrey</nombre></city>
+<city><nombre>Pore</nombre></city>
+<city><nombre>Recetor</nombre></city>
+<city><nombre>Sabanalarga</nombre></city>
+<city><nombre>Sácama</nombre></city>
+<city><nombre>Tauramena</nombre></city>
+<city><nombre>Trinidad</nombre></city>
+<city><nombre>Villanueva</nombre></city>
+<city><nombre>Mocoa</nombre></city>
+<city><nombre>Colón</nombre></city>
+<city><nombre>Orito</nombre></city>
+<city><nombre>Puerto Caicedo</nombre></city>
+<city><nombre>Puerto Guzmán</nombre></city>
+<city><nombre>Leguízamo</nombre></city>
+<city><nombre>Sibundoy</nombre></city>
+<city><nombre>San Francisco</nombre></city>
+<city><nombre>San Miguel</nombre></city>
+<city><nombre>Santiago</nombre></city>
+<city><nombre>Leticia</nombre></city>
+<city><nombre>El Encanto</nombre></city>
+<city><nombre>La Chorrera</nombre></city>
+<city><nombre>La Pedrera</nombre></city>
+<city><nombre>La Victoria</nombre></city>
+<city><nombre>Puerto Arica</nombre></city>
+<city><nombre>Puerto Nariño</nombre></city>
+<city><nombre>Puerto Santander</nombre></city>
+<city><nombre>Tarapacá</nombre></city>
+<city><nombre>Inírida</nombre></city>
+<city><nombre>Barranco Minas</nombre></city>
+<city><nombre>Mapiripana</nombre></city>
+<city><nombre>San Felipe</nombre></city>
+<city><nombre>Puerto Colombia</nombre></city>
+<city><nombre>La Guadalupe</nombre></city>
+<city><nombre>Cacahual</nombre></city>
+<city><nombre>Pana Pana</nombre></city>
+<city><nombre>Mitú</nombre></city>
+<city><nombre>Carurú</nombre></city>
+<city><nombre>Taraira</nombre></city>
+<city><nombre>Papunahua</nombre></city>
+<city><nombre>Yavaraté</nombre></city>
+<city><nombre>Pacoa</nombre></city>
+<city><nombre>Morichal</nombre></city>
+<city><nombre>Puerto Carreño</nombre></city>
+<city><nombre>La Primavera</nombre></city>
+<city><nombre>Santa Rosalía</nombre></city>
+<city><nombre>Cumaribo</nombre></city>
+<city><nombre>San José del Fragua</nombre></city>
+<city><nombre>Barranca de Upía</nombre></city>
+<city><nombre>Palmas del Socorro</nombre></city>
+<city><nombre>San Juan de Río Seco</nombre></city>
+<city><nombre>Juan de Acosta</nombre></city>
+<city><nombre>Fuente de Oro</nombre></city>
+<city><nombre>San Luis de Gaceno</nombre></city>
+<city><nombre>El Litoral del San Juan</nombre></city>
+<city><nombre>Villa de San Diego de Ubate</nombre></city>
+<city><nombre>Barranco de Loba</nombre></city>
+<city><nombre>Togüí</nombre></city>
+<city><nombre>Santa Rosa del Sur</nombre></city>
+<city><nombre>El Cantón del San Pablo</nombre></city>
+<city><nombre>Villa de Leyva</nombre></city>
+<city><nombre>San Sebastián de Buenavista</nombre></city>
+<city><nombre>Paz de Río</nombre></city>
+<city><nombre>Hatillo de Loba</nombre></city>
+<city><nombre>Sabanas de San Angel</nombre></city>
+<city><nombre>Calamar</nombre></city>
+<city><nombre>Río de Oro</nombre></city>
+<city><nombre>San Pedro de Uraba</nombre></city>
+<city><nombre>San José del Guaviare</nombre></city>
+<city><nombre>Santa Rosa de Viterbo</nombre></city>
+<city><nombre>Santander de Quilichao</nombre></city>
+<city><nombre>Miraflores</nombre></city>
+<city><nombre>Santafé de Antioquia</nombre></city>
+<city><nombre>San Carlos de Guaroa</nombre></city>
+<city><nombre>Palmar de Varela</nombre></city>
+<city><nombre>Santa Rosa de Osos</nombre></city>
+<city><nombre>San Andrés de Cuerquía</nombre></city>
+<city><nombre>Valle de San Juan</nombre></city>
+<city><nombre>San Vicente de Chucurí</nombre></city>
+<city><nombre>San José de Miranda</nombre></city>
+<city><nombre>Providencia</nombre></city>
+<city><nombre>Santa Rosa de Cabal</nombre></city>
+<city><nombre>Guayabal de Siquima</nombre></city>
+<city><nombre>Belén de Los Andaquies</nombre></city>
+<city><nombre>Paz de Ariporo</nombre></city>
+<city><nombre>Santa Helena del Opón</nombre></city>
+<city><nombre>San Pablo de Borbur</nombre></city>
+<city><nombre>La Jagua del Pilar</nombre></city>
+<city><nombre>La Jagua de Ibirico</nombre></city>
+<city><nombre>San Luis de Sincé</nombre></city>
+<city><nombre>San Luis de Gaceno</nombre></city>
+<city><nombre>El Carmen de Bolívar</nombre></city>
+<city><nombre>El Carmen de Atrato</nombre></city>
+<city><nombre>San Juan de Betulia</nombre></city>
+<city><nombre>Pijiño del Carmen</nombre></city>
+<city><nombre>Vigía del Fuerte</nombre></city>
+<city><nombre>San Martín de Loba</nombre></city>
+<city><nombre>Altos del Rosario</nombre></city>
+<city><nombre>Carmen de Apicala</nombre></city>
+<city><nombre>San Antonio del Tequendama</nombre></city>
+<city><nombre>Sabana de Torres</nombre></city>
+<city><nombre>El Retorno</nombre></city>
+<city><nombre>San José de Uré</nombre></city>
+<city><nombre>San Pedro de Cartago</nombre></city>
+<city><nombre>Campo de La Cruz</nombre></city>
+<city><nombre>San Juan de Arama</nombre></city>
+<city><nombre>San José de La Montaña</nombre></city>
+<city><nombre>Cartagena del Chairá</nombre></city>
+<city><nombre>San José del Palmar</nombre></city>
+<city><nombre>Agua de Dios</nombre></city>
+<city><nombre>San Jacinto del Cauca</nombre></city>
+<city><nombre>San Agustín</nombre></city>
+<city><nombre>El Tablón de Gómez</nombre></city>
+<city><nombre>San Andrés</nombre></city>
+<city><nombre>San José de Pare</nombre></city>
+<city><nombre>Valle de Guamez</nombre></city>
+<city><nombre>San Pablo de Borbur</nombre></city>
+<city><nombre>Santiago de Tolú</nombre></city>
+<city><nombre>Bogotá D.C.</nombre></city>
+<city><nombre>Carmen de Carupa</nombre></city>
+<city><nombre>Ciénaga de Oro</nombre></city>
+<city><nombre>San Juan de Urabá</nombre></city>
+<city><nombre>San Juan del Cesar</nombre></city>
+<city><nombre>El Carmen de Chucurí</nombre></city>
+<city><nombre>El Carmen de Viboral</nombre></city>
+<city><nombre>Belén de Umbría</nombre></city>
+<city><nombre>Belén de Bajira</nombre></city>
+<city><nombre>Valle de San José</nombre></city>
+<city><nombre>San Luis</nombre></city>
+<city><nombre>San Miguel de Sema</nombre></city>
+<city><nombre>San Antonio</nombre></city>
+<city><nombre>San Benito</nombre></city>
+<city><nombre>Vergara</nombre></city>
+<city><nombre>San Carlos</nombre></city>
+<city><nombre>Puerto Alegría</nombre></city>
+<city><nombre>Hato</nombre></city>
+<city><nombre>San Jacinto</nombre></city>
+<city><nombre>San Sebastián</nombre></city>
+<city><nombre>San Carlos</nombre></city>
+<city><nombre>Tuta</nombre></city>
+<city><nombre>Silos</nombre></city>
+<city><nombre>Cácota</nombre></city>
+<city><nombre>El Dovio</nombre></city>
+<city><nombre>Toledo</nombre></city>
+<city><nombre>Roldanillo</nombre></city>
+<city><nombre>Mutiscua</nombre></city>
+<city><nombre>Argelia</nombre></city>
+<city><nombre>El Zulia</nombre></city>
+<city><nombre>Salazar</nombre></city>
+<city><nombre>Sevilla</nombre></city>
+<city><nombre>Zarzal</nombre></city>
+<city><nombre>Cucutilla</nombre></city>
+<city><nombre>El Cerrito</nombre></city>
+<city><nombre>Cartago</nombre></city>
+<city><nombre>Caicedonia</nombre></city>
+<city><nombre>Puerto Santander</nombre></city>
+<city><nombre>Gramalote</nombre></city>
+<city><nombre>El Cairo</nombre></city>
+<city><nombre>El Tarra</nombre></city>
+<city><nombre>La Unión</nombre></city>
+<city><nombre>Restrepo</nombre></city>
+<city><nombre>Teorama</nombre></city>
+<city><nombre>Dagua</nombre></city>
+<city><nombre>Arboledas</nombre></city>
+<city><nombre>Guacarí</nombre></city>
+<city><nombre>Lourdes</nombre></city>
+<city><nombre>Ansermanuevo</nombre></city>
+<city><nombre>Bochalema</nombre></city>
+<city><nombre>Bugalagrande</nombre></city>
+<city><nombre>Convención</nombre></city>
+<city><nombre>Hacarí</nombre></city>
+<city><nombre>La Victoria</nombre></city>
+<city><nombre>Herrán</nombre></city>
+<city><nombre>Ginebra</nombre></city>
+<city><nombre>Yumbo</nombre></city>
+<city><nombre>Obando</nombre></city>
+<city><nombre>Tibú</nombre></city>
+<city><nombre>San Cayetano</nombre></city>
+<city><nombre>San Calixto</nombre></city>
+<city><nombre>Bolívar</nombre></city>
+<city><nombre>La Playa</nombre></city>
+<city><nombre>Cali</nombre></city>
+<city><nombre>San Pedro</nombre></city>
+<city><nombre>Guadalajara de Buga</nombre></city>
+<city><nombre>Chinácota</nombre></city>
+<city><nombre>Ragonvalia</nombre></city>
+<city><nombre>La Esperanza</nombre></city>
+<city><nombre>Villa del Rosario</nombre></city>
+<city><nombre>Chitagá</nombre></city>
+<city><nombre>Calima</nombre></city>
+<city><nombre>Sardinata</nombre></city>
+<city><nombre>Andalucía</nombre></city>
+<city><nombre>Pradera</nombre></city>
+<city><nombre>Abrego</nombre></city>
+<city><nombre>Los Patios</nombre></city>
+<city><nombre>Ocaña</nombre></city>
+<city><nombre>Bucarasica</nombre></city>
+<city><nombre>Yotoco</nombre></city>
+<city><nombre>Palmira</nombre></city>
+<city><nombre>Riofrío</nombre></city>
+<city><nombre>Santiago</nombre></city>
+<city><nombre>Alcalá</nombre></city>
+<city><nombre>Versalles</nombre></city>
+<city><nombre>Labateca</nombre></city>
+<city><nombre>Cachirá</nombre></city>
+<city><nombre>Villa Caro</nombre></city>
+<city><nombre>Durania</nombre></city>
+<city><nombre>El Águila</nombre></city>
+<city><nombre>Toro</nombre></city>
+<city><nombre>Candelaria</nombre></city>
+<city><nombre>La Cumbre</nombre></city>
+<city><nombre>Ulloa</nombre></city>
+<city><nombre>Trujillo</nombre></city>
+<city><nombre>Vijes</nombre></city>
+<city><nombre>Chimá</nombre></city>
+<city><nombre>Sampués</nombre></city>
+<city><nombre>Nunchía</nombre></city>
+<city><nombre>Pamplona</nombre></city>
+<city><nombre>Albán</nombre></city>
+<city><nombre>Montelíbano</nombre></city>
+<city><nombre>Puerto Asís</nombre></city>
+<city><nombre>Corozal</nombre></city>
+<city><nombre>Buesaco</nombre></city>
+<city><nombre>Maní</nombre></city>
+<city><nombre>El Peñón</nombre></city>
+<city><nombre>Tuluá</nombre></city>
+<city><nombre>Casabianca</nombre></city>
+<city><nombre>Anolaima</nombre></city>
+<city><nombre>Chía</nombre></city>
+<city><nombre>San Andrés de Tumaco</nombre></city>
+<city><nombre>Milán</nombre></city>
+<city><nombre>Capitanejo</nombre></city>
+<city><nombre>Anzoátegui</nombre></city>
+<city><nombre>Florida</nombre></city>
+<city><nombre>Repelón</nombre></city>
+<city><nombre>Frontino</nombre></city>
+<city><nombre>El Peñón</nombre></city>
+<city><nombre>Pamplonita</nombre></city>
+<city><nombre>Miriti Paraná</nombre></city>
+<city><nombre>Támara</nombre></city>
+<city><nombre>Tibasosa</nombre></city>
+<city><nombre>Páez</nombre></city>
+<city><nombre>Ibagué</nombre></city>
+<city><nombre>Puerto Colombia</nombre></city>
+<city><nombre>Belén</nombre></city>
+<city><nombre>Sopó</nombre></city>
+<city><nombre>Carmen del Darien</nombre></city>
+<city><nombre>Gama</nombre></city>
+<city><nombre>Sasaima</nombre></city>
+<city><nombre>Chachagüí</nombre></city>
+<city><nombre>Cúcuta</nombre></city>
+<city><nombre>Cartagena</nombre></city>
+<city><nombre>Granada</nombre></city>
+<city><nombre>Santa Bárbara de Pinto</nombre></city>
+<city><nombre>María la Baja</nombre></city>
+<city><nombre>La Montañita</nombre></city>
+<city><nombre>San Vicente del Caguán</nombre></city>
+<city><nombre>El Peñón</nombre></city>
+<city><nombre>Jardín</nombre></city>
+<city><nombre>Jamundí</nombre></city>
+<city><nombre>Tadó</nombre></city>
+<city><nombre>Orocué</nombre></city>
+<city><nombre>Líbano</nombre></city>
+<city><nombre>Yacopí</nombre></city>
+<city><nombre>Calarcá</nombre></city>
+<city><nombre>Sonsón</nombre></city>
+<city><nombre>El Carmen</nombre></city>
+<city><nombre>Lérida</nombre></city>
+<city><nombre>La Apartada</nombre></city>
+<city><nombre>San Cristóbal</nombre></city>
+<city><nombre>Fusagasugá</nombre></city>
+<city><nombre>Zambrano</nombre></city>
+<city><nombre>La Uvita</nombre></city>
+<city><nombre>Zipaquirá</nombre></city>
+<city><nombre>Génova</nombre></city>
+<city><nombre>Suárez</nombre></city>
+<city><nombre>Castilla la Nueva</nombre></city>
+<city><nombre>Belén</nombre></city>
+<city><nombre>Unión Panamericana</nombre></city>
+<city><nombre>Pueblo Viejo</nombre></city>
+<city><nombre>Villagarzón</nombre></city>
+<city><nombre>Facatativá</nombre></city>
+<city><nombre>Puerto Libertador</nombre></city>
+<city><nombre>Marquetalia</nombre></city>
+<city><nombre>Arboleda</nombre></city>
+<city><nombre>Buenaventura</nombre></city>
+<city><nombre>Ciénaga</nombre></city>
+<city><nombre>Ponedera</nombre></city>
+</cities>
