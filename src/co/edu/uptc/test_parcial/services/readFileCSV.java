@@ -10,17 +10,31 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 
-import javax.lang.model.element.Element;
-import javax.swing.text.Document;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-
-import org.w3c.dom.Node;
-
 public class readFileCSV {
-    String path;
-    BufferedReader br;
-    String fileName;
+    private String path;
+    private BufferedReader br;
+    private String fileName;
+    private String comma;
+    private String lineBreak;
+    private String doublePoints;
+    private String quote;
+    
+
+    public void setQuote(String quote) {
+        this.quote = quote;
+    }
+
+    public void setDoublePoints(String doublePoints) {
+        this.doublePoints = doublePoints;
+    }
+
+    public void setComma(String comma) {
+        this.comma = comma;
+    }
+
+    public void setLineBreak(String lineBreak) {
+        this.lineBreak = lineBreak;
+    }
 
     public void setPath(String path) {
         this.path = path;
@@ -48,7 +62,7 @@ public class readFileCSV {
             String temp = "";
             for (int i = 0; i < string.length(); i++) {
                 temp += string.substring(i, i + 1);
-                if (string.substring(i, i + 1).equals(",")) {
+                if (string.substring(i, i + 1).equals(comma)) {
                     break;
                 }
             }
@@ -62,10 +76,10 @@ public class readFileCSV {
         List<String> departament = new ArrayList<>();
         for (String string : content) {
             if (numberQuote(string) == 4) {
-                String[] datos = string.split(",");
+                String[] datos = string.split(comma);
                 departament.add(datos[2]);
             } else if (numberQuote(string) == 5) {
-                String[] datos = string.split(",");
+                String[] datos = string.split(comma);
                 departament.add(removeQuote(datos[2] + datos[3]));
             }
         }
@@ -77,10 +91,10 @@ public class readFileCSV {
         List<String> city = new ArrayList<>();
         for (String string : content) {
             if (numberQuote(string) == 4) {
-                String[] datos = string.split(",");
+                String[] datos = string.split(comma);
                 city.add(datos[4]);
             } else if (numberQuote(string) == 5) {
-                String[] datos = string.split(",");
+                String[] datos = string.split(comma);
                 city.add(datos[5]);
             }
         }
@@ -90,7 +104,7 @@ public class readFileCSV {
     public int numberQuote(String string) throws IOException {
         int contQuote = 0;
         for (int i = 0; i < string.length(); i++) {
-            if (string.substring(i, i + 1).equals(",")) {
+            if (string.substring(i, i + 1).equals(comma)) {
                 contQuote++;
             }
         }
@@ -128,9 +142,9 @@ public class readFileCSV {
         List<String> jsonList = new ArrayList<>();
         jsonList.add("[");
         for (String string : departament) {
-            jsonList.add("{" + "\"" + "departament:" + "\"" + ":" + "\"" + string + "\"" + "}" + ",");
+            jsonList.add("{" + quote + "departament:" + quote + doublePoints + quote + string + quote + "}" + comma);
             if (departament.indexOf(string) == departament.size() - 1) {
-                jsonList.add("{" + "\"" + "departament:" + "\"" + ":" + "\"" + string + "\"" + "}");
+                jsonList.add("{" + quote + "departament:" + quote + doublePoints + quote + string + quote + "}");
             }
         }
         jsonList.add("]");
@@ -152,7 +166,7 @@ public class readFileCSV {
     public void createFile(List<String> list) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
         for (String string : list) {
-            writer.write(string + "\n");
+            writer.write(string + lineBreak);
         }
         writer.close();
     }
